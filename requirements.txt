@@ -9,7 +9,7 @@ django-appconf==1.0.3
 django-cors-headers==2.4.0
 html2text==2018.1.9
 idna==2.8
-Pillow==5.4.1
+Pillow==8.2.0
 pycodestyle==2.5.0
 pycosat==0.6.3
 pycparser==2.19
